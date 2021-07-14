@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url("https://plataoplomo.com.br/wp-content/uploads/2020/02/anos-90-1200x675.jpg");
+    
+    min-height: 995px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
